@@ -1,6 +1,6 @@
 # Online-Retail-Analysis
 
-![1-c829b1d8](https://github.com/user-attachments/assets/18f9f193-7964-4e72-a95f-6cc02d41b656)
+![1-c829b1d8](https://github.com/user-attachments/assets/590b6fb2-8e45-4d90-9e16-2c38b1f45f9e.PNG)
 
 1. INTRODUCTION
 
