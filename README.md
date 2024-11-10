@@ -47,9 +47,9 @@ Renamed "Description" column to "Product_Description" to avoid SQL "DESCRIPTION"
 
 Filtered out rows with null or missing values, particularly in CustomerID and Product_Description
 
-Filtered out transactions with negative or zero quantities/unit price to focus on valid purchases
+Filtered out transactions with negative or zero quantities/unit price which were as a result of returned or damaged products, so as to focus on valid purchases
 
-Filtered out rows with incosistent values in StockCodes such that focus was on only codes with 5-digits
+Filtered out rows with incosistent values (indicating returned or damaged products) in StockCodes such that focus was on only codes with 5-digits
 
 Analytical Approach:
 
@@ -86,9 +86,26 @@ Insight: With only about 10% of customers from outside the UK, there may be unta
 
 II. Customer Spend Analysis
 
-Finding: The average customer spend is approximately $120, with the top 10% of customers con.
+Finding: Customers exhibit varied spending levels, with some contributing significantly based on average/total spending per transactions and others with minimal spending.
 
-Insight: A targeted rewards program for high-value customers could incentivize further spending and improve customer retention.
+High-spending customers represent the top percentile, contributing disproportionately to overall revenue. For example, the highest spender may have contributed several times more than lower-spending customers. 
+
+CustomerID (14646) has an average spending per transaction of £134.05 but the highest total spending of £279,489.02 over 2080 transactions, indicating that they make frequent small purchases. In contrast, 
+
+CustomerID (18102) has an average spending per transaction of £592.24 but a total spending of £256438.49 over 431 transactions, showing that they make occasional large purchases.
+
+Also, a segment of customers has minimal or negative net spending due to factors such as product returns, adjustments or damages. For instance, if some customers frequently return products, it could impact their net contribution negatively or result in zero spending.
+
+Insight: The top customers by total spending can be identified as high-value clients. These customers contribute significantly to sales and are likely to respond well to loyalty programs, targeted promotions, or personalized engagement to encourage repeat business.
+
+Investigate low or zero-spending customers to understand barriers to increased spending. This could involve analyzing reasons for product returns or negative spendings.
+
+III. Top Buyers by Quantity Purchased and Revenue Generated
+
+Finding:CustomerID (14646) is the highest buyer based on quantity purchased (196,719) and revenue generated (£279,489.02), followed by several others with similar purchasing patterns. 
+
+Insight: There is a positive pattern between total quantity purchased and revenue generated. Hence, dentifying and offering exclusive benefits to these top customers could encourage continued high-value purchases.
+
 
 
 
