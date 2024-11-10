@@ -13,7 +13,7 @@ Scope: This analysis covers transactional data, focusing on product sales, custo
 
 2. DATASET OVERVIEW
 
-Source: The dataset is sourced from an online retail transactional database; UC Irvine Machine Learning Repository
+Source: The dataset is sourced from UC Irvine Machine Learning Repository
 
 License: This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 This allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.
