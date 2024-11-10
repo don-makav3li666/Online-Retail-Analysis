@@ -58,3 +58,12 @@ Identified trends by examining weekday, monthly, and hourly patterns.
 
 Segment analysis was conducted to reveal high-value customers and top-selling products.
 
+
+4. Key Findings and Analysis
+   
+Sales and Revenue Analysis
+
+I. Total Sales and Revenue by Product
+
+Finding: The top-selling product by quantity is the "PAPER CRAFT , LITTLE BIRDIE" (StockCode ), which accounts for a significant portion of total sales volume. In terms of revenue, "REGENCY CAKESTAND 3 TIER" (StockCode 22423) is the highest revenue-generating product due to its high unit price and quantity sold.
+
