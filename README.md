@@ -9,7 +9,7 @@ Purpose: The purpose of this analysis is to gain insights into sales performance
 
 Scope: This analysis covers transactional data, focusing on product sales, customer behavior, sales trends by time, and geographic insights. The dataset contains transactional information including product details, quantities sold, unit prices, customer identifiers, and purchase locations. These transactions occur between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
 
-2. Dataset Overview
+2. DATASET OVERVIEW
 
 Source: The dataset is sourced from an online retail transactional database; UC Irvine Machine Learning Repository
 
@@ -33,4 +33,24 @@ UnitPrice: Unit price. Numeric, Product price per unit in sterling.
 CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 
 Country: Country name. Nominal, the name of the country where each customer resides. 
+
+3. METHODOLOGY
+   
+Data Cleaning:
+
+Renamed "Description" column to "Product_Description" to avoid SQL "DESCRIPTION" function error
+
+Filtered out rows with null or missing values, particularly in CustomerID and Product_Description
+
+Filtered out transactions with negative or zero quantities/unit price to focus on valid purchases
+
+Filtered out rows with incosistent values in StockCodes such that focus was on only codes with 5-digits
+
+Analytical Approach:
+
+Aggregated sales and revenue data by product, customer, country, and time.
+
+Identified trends by examining weekday, monthly, and hourly patterns.
+
+Segment analysis was conducted to reveal high-value customers and top-selling products.
 
