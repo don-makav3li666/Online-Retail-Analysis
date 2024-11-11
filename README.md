@@ -60,7 +60,7 @@ Identified trends by examining weekday, monthly, and hourly patterns.
 Segment analysis was conducted to reveal high-value customers and top-selling products.
 
 
-4. Key Findings and Analysis
+4. KEY FINDINGS AND INSIGHTS
    
 A. Sales and Revenue Analysis
 
