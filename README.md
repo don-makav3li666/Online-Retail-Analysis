@@ -107,7 +107,49 @@ Finding:CustomerID (14646) is the highest buyer based on quantity purchased (196
 Insight: There is a positive pattern between total quantity purchased and revenue generated. Hence, dentifying and offering exclusive benefits to these top customers could encourage continued high-value purchases.
 
 
+C. Time-Based Analysis
+
+I. Peak Sales Hours
+
+Finding: Sales peaked from 8 AM to 7 PM. There is minimal purchasing activity from 8 PM to 7 AM.
+Insight: Targeted marketing emails and promotions sent in the morning could capitalize on peak purchase hours.
+
+II. Sales Trends by Month
+
+Finding: According to the data, November 2011 reached the peak with 3,021 invoices and 740,286 items sold, representing the highest monthly transaction count and quantity for the entire period. In contrast, December 2011 saw a drastic drop, with only 869 invoices and 226,333 items sold—the lowest recorded for both metrics.
+
+Insight: This data highlights a pronounced seasonal sales pattern. The November spike indicates a surge likely tied to holiday shopping or major promotions, such as pre-holiday sales, which maximized customer purchases. The drop in December 2011 suggests that demand may have been largely met during November, leading to a slower December. This pattern could reflect consumer behavior where bulk purchasing happens early in the season, possibly due to anticipated stockouts or discount-driven purchases. However, there is not enough data to determine if this is a regular occurence.
+
+III. SalesTrends by Day of Week
+
+Findings: With a total quantity sold of 4,689 and total revenue of $1,167,823, Thursday stands out as the strongest day in terms of both sales volume and revenue generation.
+Midweek Outperforms the Weekend in Sales:
+
+The top three days for both quantity and revenue are Thursday, Wednesday, and Tuesday. Together, they account for a significant share of total sales, indicating that midweek days are the peak sales period.
+In contrast, Sunday shows the lowest sales, with only 2,207 items sold and a revenue of $467,732, suggesting a dip in customer activity on weekends.
+
+Insight: Since midweek days (Tuesday to Thursday) generate the highest sales, consider focusing marketing promotions or product launches on these days to capitalize on existing customer interest. For example, running a midweek sale could amplify already high traffic and increase revenue further.
+
+Sunday shows the lowest sales and revenue. This could be an opportunity to explore targeted promotions or discounts to encourage more purchases. Testing special weekend offers, like "Sunday-only discounts," might help capture a larger audience and boost end-of-week sales.
 
 
+IV. Repeat Purchase Patterns
 
+Findings
+
+Moderate-Frequency Purchasers: The largest group of customers, with 1,757 customers are classified as "Moderate-Frequency Purchasers," making purchases every 31 to 180 days.
+
+High-Frequency Purchasers: There are 1,134 customers who fall into the "High-Frequency Purchaser" category, making purchases roughly every month or more frequently (within a 30-day interval).
+
+Low-Frequency Purchasers: A smaller segment, with 167 customers are classified as "Low-Frequency Purchasers," with intervals between purchases ranging from 181 to 366 days.
+
+Insight: Opportunity for Customer Segmentation and Personalization
+
+Understanding the distribution of purchase frequency enables more effective customer segmentation. Each frequency group has distinct purchasing behaviors, allowing for tailored marketing strategies:
+
+High-Frequency Purchasers: Benefit from loyalty programs.
+
+Moderate-Frequency Purchasers: Engage with reminders and retention offers.
+
+Low-Frequency Purchasers: Appeal with seasonal or limited-time offers.
 
