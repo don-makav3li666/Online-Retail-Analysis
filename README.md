@@ -140,11 +140,17 @@ IV. Repeat Purchase Patterns
 
  Findings
 
-  - Moderate-Frequency Purchasers: The largest group of customers, with 1,757 customers are classified as "Moderate-Frequency Purchasers," making purchases every 31 to 180 days.
+  - Moderate-Frequency Purchasers:
 
-  - High-Frequency Purchasers: There are 1,134 customers who fall into the "High-Frequency Purchaser" category, making purchases roughly every month or more frequently (within a 30-day interval).
+    The largest group of customers, with 1,757 customers are classified as "Moderate-Frequency Purchasers," making purchases every 31 to 180 days.
 
-  - Low-Frequency Purchasers: A smaller segment, with 167 customers are classified as "Low-Frequency Purchasers," with intervals between purchases ranging from 181 to 366 days.
+  - High-Frequency Purchasers:
+
+    There are 1,134 customers who fall into the "High-Frequency Purchaser" category, making purchases roughly every month or more frequently (within a 30-day interval).
+
+  - Low-Frequency Purchasers:
+
+    A smaller segment, with 167 customers are classified as "Low-Frequency Purchasers," with intervals between purchases ranging from 181 to 366 days.
 
  Insights
 
@@ -167,10 +173,11 @@ I. Distribution of Revenue by Country
 
   - Top Revenue-Generating Country:
 
-     United Kingdom is by far the highest revenue contributor, generating £8,187,806.36, which accounts for 84% of total revenue. This suggests that the UK is the primary market for this business.
+    United Kingdom is by far the highest revenue contributor, generating £8,187,806.36, which accounts for 84% of total revenue. This suggests that the UK is the primary market for this business.
 
   - Secondary Markets:
 
-Netherlands and Ireland (EIRE) are the next two top contributors, generating £284,661.54 and £263,276.82 respectively. Despite being in the top three, their contributions are significantly lower than the UK, making up only around 2.92% and 2.7% of total revenue.
+    Netherlands and Ireland (EIRE) are the next two top contributors, generating £284,661.54 and £263,276.82 respectively. Despite being in the top three, their contributions are significantly lower than the UK, 
+    making up only around 2.92% and 2.7% of total revenue.
 
 
