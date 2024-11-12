@@ -169,7 +169,7 @@ I. Distribution of Revenue by Country
 
      United Kingdom is by far the highest revenue contributor, generating £8,187,806.36, which accounts for 84% of total revenue. This suggests that the UK is the primary market for this business.
 
-  -  Secondary Markets:
+  - Secondary Markets:
 
 Netherlands and Ireland (EIRE) are the next two top contributors, generating £284,661.54 and £263,276.82 respectively. Despite being in the top three, their contributions are significantly lower than the UK, making up only around 2.92% and 2.7% of total revenue.
 
