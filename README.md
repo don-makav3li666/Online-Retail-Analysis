@@ -148,26 +148,28 @@ IV. Repeat Purchase Patterns
 
  Insights
 
-  -   Opportunity for Customer Segmentation and Personalization
+  - Opportunity for Customer Segmentation and Personalization
 
-  -  Understanding the distribution of purchase frequency enables more effective customer segmentation. Each frequency group has distinct purchasing behaviors, allowing for tailored marketing strategies:
+  - Understanding the distribution of purchase frequency enables more effective customer segmentation. Each frequency group has distinct purchasing behaviors, allowing for tailored marketing strategies:
 
-  -   High-Frequency Purchasers: Benefit from loyalty programs.
+  - High-Frequency Purchasers: Benefit from loyalty programs.
 
-     Moderate-Frequency Purchasers: Engage with reminders and retention offers.
+  - Moderate-Frequency Purchasers: Engage with reminders and retention offers.
 
-     Low-Frequency Purchasers: Appeal with seasonal or limited-time offers.
+  - Low-Frequency Purchasers: Appeal with seasonal or limited-time offers.
 
 
 D. Geographic Analysis
 
 I. Distribution of Revenue by Country
 
-   - Top Revenue-Generating Country:
+ Findings
+
+  - Top Revenue-Generating Country:
 
      United Kingdom is by far the highest revenue contributor, generating £8,187,806.36, which accounts for 84% of total revenue. This suggests that the UK is the primary market for this business.
 
-   -  Secondary Markets:
+  -  Secondary Markets:
 
 Netherlands and Ireland (EIRE) are the next two top contributors, generating £284,661.54 and £263,276.82 respectively. Despite being in the top three, their contributions are significantly lower than the UK, making up only around 2.92% and 2.7% of total revenue.
 
