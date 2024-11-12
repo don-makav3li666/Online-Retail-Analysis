@@ -122,34 +122,51 @@ Insight: This data highlights a pronounced seasonal sales pattern. The November 
 
 III. SalesTrends by Day of Week
 
-Findings: With a total quantity sold of 4,689 and total revenue of $1,167,823, Thursday stands out as the strongest day in terms of both sales volume and revenue generation.
-Midweek Outperforms the Weekend in Sales:
+    Findings: With a total quantity sold of 4,689 and total revenue of $1,167,823, Thursday stands out as the strongest day in terms of both sales volume and revenue generation.
+    Midweek Outperforms the Weekend in Sales:
 
-The top three days for both quantity and revenue are Thursday, Wednesday, and Tuesday. Together, they account for a significant share of total sales, indicating that midweek days are the peak sales period.
-In contrast, Sunday shows the lowest sales, with only 2,207 items sold and a revenue of $467,732, suggesting a dip in customer activity on weekends.
+    The top three days for both quantity and revenue are Thursday, Wednesday, and Tuesday. Together, they account for a significant share of total sales, indicating that midweek days are the peak sales period.
+    In contrast, Sunday shows the lowest sales, with only 2,207 items sold and a revenue of $467,732, suggesting a dip in customer activity on weekends.
 
-Insight: Since midweek days (Tuesday to Thursday) generate the highest sales, consider focusing marketing promotions or product launches on these days to capitalize on existing customer interest. For example, running a midweek sale could amplify already high traffic and increase revenue further.
+    Insight: Since midweek days (Tuesday to Thursday) generate the highest sales, consider focusing marketing promotions or product launches on these days to capitalize on existing customer interest. For 
+    example, 
+    running a midweek sale could amplify already high traffic and increase revenue further.
 
-Sunday shows the lowest sales and revenue. This could be an opportunity to explore targeted promotions or discounts to encourage more purchases. Testing special weekend offers, like "Sunday-only discounts," might help capture a larger audience and boost end-of-week sales.
+    Sunday shows the lowest sales and revenue. This could be an opportunity to explore targeted promotions or discounts to encourage more purchases. Testing special weekend offers, like "Sunday-only discounts," 
+    might help capture a larger audience and boost end-of-week sales.
 
 
 IV. Repeat Purchase Patterns
 
-Findings
+    Findings
 
-Moderate-Frequency Purchasers: The largest group of customers, with 1,757 customers are classified as "Moderate-Frequency Purchasers," making purchases every 31 to 180 days.
+    Moderate-Frequency Purchasers: The largest group of customers, with 1,757 customers are classified as "Moderate-Frequency Purchasers," making purchases every 31 to 180 days.
 
-High-Frequency Purchasers: There are 1,134 customers who fall into the "High-Frequency Purchaser" category, making purchases roughly every month or more frequently (within a 30-day interval).
+    High-Frequency Purchasers: There are 1,134 customers who fall into the "High-Frequency Purchaser" category, making purchases roughly every month or more frequently (within a 30-day interval).
 
-Low-Frequency Purchasers: A smaller segment, with 167 customers are classified as "Low-Frequency Purchasers," with intervals between purchases ranging from 181 to 366 days.
+    Low-Frequency Purchasers: A smaller segment, with 167 customers are classified as "Low-Frequency Purchasers," with intervals between purchases ranging from 181 to 366 days.
 
-Insight: Opportunity for Customer Segmentation and Personalization
+    Insight: Opportunity for Customer Segmentation and Personalization
 
-Understanding the distribution of purchase frequency enables more effective customer segmentation. Each frequency group has distinct purchasing behaviors, allowing for tailored marketing strategies:
+    Understanding the distribution of purchase frequency enables more effective customer segmentation. Each frequency group has distinct purchasing behaviors, allowing for tailored marketing strategies:
 
-High-Frequency Purchasers: Benefit from loyalty programs.
+    High-Frequency Purchasers: Benefit from loyalty programs.
 
-Moderate-Frequency Purchasers: Engage with reminders and retention offers.
+    Moderate-Frequency Purchasers: Engage with reminders and retention offers.
 
-Low-Frequency Purchasers: Appeal with seasonal or limited-time offers.
+    Low-Frequency Purchasers: Appeal with seasonal or limited-time offers.
+
+
+D. Geographic Analysis
+
+I. Distribution of Revenue by Country
+
+   - Top Revenue-Generating Country:
+
+     United Kingdom is by far the highest revenue contributor, generating £8,187,806.36, which accounts for 84% of total revenue. This suggests that the UK is the primary market for this business.
+
+   -  Secondary Markets:
+
+Netherlands and Ireland (EIRE) are the next two top contributors, generating £284,661.54 and £263,276.82 respectively. Despite being in the top three, their contributions are significantly lower than the UK, making up only around 2.92% and 2.7% of total revenue.
+
 
