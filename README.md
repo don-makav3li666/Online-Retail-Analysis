@@ -4,7 +4,7 @@
 
 ## 1. INTRODUCTION
 
-Purpose: The purpose of this analysis is to gain insights into sales performance, customer purchasing behaviors, and revenue trends for strategic decision-making. By examining key metrics ...such as product sales, revenue by transaction, customer spend, and geographic distribution, this report aims to provide actionable recommendations to enhance revenue growth and customer engagement.
+Purpose: The purpose of this analysis is to gain insights into sales performance, customer purchasing behaviors, and revenue trends for strategic decision-making. By examining key metrics ... such as product sales, revenue by transaction, customer spend, and geographic distribution, this report aims to provide actionable recommendations to enhance revenue growth and customer engagement.
 
 Scope: This analysis covers transactional data, focusing on product sales, customer behavior, sales trends by time, and geographic insights. The dataset contains transactional information including product details, quantities sold, unit prices, customer identifiers, and purchase locations. These transactions occur between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
 
