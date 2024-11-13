@@ -349,5 +349,21 @@ Country: Country name. Nominal, the name of the country where each customer resi
 
      The list includes a significant number of low-cost items like *POPART WOODEN PENCILS ASST* (£0.04), *MINI HIGHLIGHTER PENS* (£0.12), and *ANIMAL STICKERS* (£0.21). These are likely impulse buys or small add-ons.
 
+     
+ #### Insights
+ 
+   - Diverse Product Range
+
+     The company offers a broad pricing spectrum from high-end furniture to inexpensive stationery. This diverse range allows it to attract both high-value and budget-conscious customers.
+
+   - High-End and Specialty Product Focus
+
+     The presence of expensive items like vintage furniture, cabinets, and decorative pieces suggests the company could further leverage this premium segment with targeted marketing or by highlighting quality and uniqueness in these categories.
+
+   - Opportunity for Upselling with Low-Cost Items
+
+     Since low-cost items are ideal for add-on purchases, promoting these alongside higher-priced items could increase average order value. For example, including these as suggested products at checkout or offering bundle deals could boost overall sales volume.
+
+   - Gift and Voucher Potential: The Gift Voucher has a high average unit price (£83.33), showing strong potential for gifting options. Emphasizing gift vouchers in marketing campaigns, especially during holiday seasons, could appeal to customers seeking flexible gifting solutions.   
 
 
