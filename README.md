@@ -5,7 +5,7 @@
 ## 1. INTRODUCTION
 
 Purpose: The purpose of this analysis is to gain insights into sales performance, customer purchasing behaviors, and revenue trends for strategic decision-making. By examining key metrics 
-*such* as product sales, revenue by transaction, customer spend, and geographic distribution, this report aims to provide actionable recommendations to enhance revenue growth and customer engagement.
+such as product sales, revenue by transaction, customer spend, and geographic distribution, this report aims to provide actionable recommendations to enhance revenue growth and customer engagement.
 
 Scope: This analysis covers transactional data, focusing on product sales, customer behavior, sales trends by time, and geographic insights. The dataset contains transactional information including product details, quantities sold, unit prices, customer identifiers, and purchase locations. These transactions occur between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
 
@@ -22,7 +22,7 @@ This allows for the sharing and adaptation of the datasets for any purpose, prov
 
 Variable Information:
 
-InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation. 
+InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'C', it indicates a cancellation. 
 
 StockCode: Product (item) code. Nominal, a 5-digit integral number uniquely assigned to each distinct product.
 
@@ -69,7 +69,7 @@ Country: Country name. Nominal, the name of the country where each customer resi
 
 ##### Finding 
  
-  - The top-selling product by quantity (80995) is the "PAPER CRAFT , LITTLE BIRDIE" (StockCode 23843), which accounts for a significant portion of total sales volume. In terms of revenue, "REGENCY CAKESTAND 3 TIER" (StockCode 22423) is 
+  - The top-selling product by quantity (80995) is the *PAPER CRAFT , LITTLE BIRDIE* (StockCode 23843), which accounts for a significant portion of total sales volume. In terms of revenue, *REGENCY CAKESTAND 3 TIER* (StockCode 22423) is 
     the highest revenue-generating product (£174,484.74) due to its high unit price and quantity sold.
 
 ##### Insight 
@@ -215,36 +215,36 @@ Country: Country name. Nominal, the name of the country where each customer resi
 
   - Top Revenue-Generating Country:
 
-    United Kingdom is by far the highest revenue contributor, generating £8,187,806.36, which accounts for 84% of total revenue. This suggests that the UK is the primary market for this business.
+    **United Kingdom** is by far the highest revenue contributor, generating £8,187,806.36, which accounts for 84% of total revenue. This suggests that the **UK** is the primary market for this business.
 
   - Secondary Markets:
 
-    Netherlands and Ireland (EIRE) are the next two top contributors, generating £284,661.54 and £263,276.82 respectively. Despite being in the top three, their contributions are significantly lower than the UK, 
+    **Netherlands** and **Ireland** **(EIRE)** are the next two top contributors, generating £284,661.54 and £263,276.82 respectively. Despite being in the top three, their contributions are significantly lower than the **UK**, 
     making up only around 2.92% and 2.7% of total revenue.
 
   - Other Key Markets:
 
-    Germany, France, and Australia also contribute notable revenues, collectively accounting for around 5.71% of total revenue. Although lower in revenue, they represent important markets outside the UK and nearby European regions.
+    **Germany**, **France**, and **Australia** also contribute notable revenues, collectively accounting for around 5.71% of total revenue. Although lower in revenue, they represent important markets outside the UK and nearby European regions.
 
   - Least Contributing Regions:
 
-    Countries like Saudi Arabia, Brazil, and Czech Republic have the lowest revenue contributions, each making up 0.01% or less. This could indicate limited demand, market entry challenges, or distribution constraints.
+    Countries like **Saudi Arabia**, **Brazil**, and **Czech Republic** have the lowest revenue contributions, each making up 0.01% or less. This could indicate limited demand, market entry challenges, or distribution constraints.
 
  ##### Insights
 
   - Strong UK Dependency:
 
-    The heavy revenue concentration in the UK (84%) highlights a reliance on the domestic market. Diversifying revenue sources by expanding internationally could reduce dependency on the UK and spread business risk.
+    The heavy revenue concentration in the **UK** (84%) highlights a reliance on the domestic market. Diversifying revenue sources by expanding internationally could reduce dependency on the UK and spread business risk.
 
   - Potential for Growth in Top European Markets:
 
-    Countries like the Netherlands, Ireland, Germany, and France already contribute notable revenue. Increased investment in these markets could help strengthen customer bases and maximize growth. For instance, localized marketing or 
+    Countries like the **Netherlands**, **Ireland**, **Germany**, and **France** already contribute notable revenue. Increased investment in these markets could help strengthen customer bases and maximize growth. For instance, localized marketing or 
     country-specific promotions may help boost sales in these regions.
 
   - Investigate Barriers in Low-Contribution Countries:
 
     For markets with negligible contributions, it may be beneficial to investigate potential entry or growth barriers. Factors like distribution challenges, import regulations, and currency exchange could be limiting growth in markets 
-    such as Brazil, the UAE, and Canada.
+    such as **Brazil**, the **UAE**, and **Canada**.
 
 #### II. Country with the highest average order value
 
@@ -262,7 +262,7 @@ Country: Country name. Nominal, the name of the country where each customer resi
  
   - Market Potential for Premium and Bulk Offers
 
-    The Netherlands may have a strong market for higher-end products or bulk purchasing options. Targeted campaigns featuring premium products, wholesale options, or tiered discounts could be effective in capturing more sales from this 
+    The **Netherlands** may have a strong market for higher-end products or bulk purchasing options. Targeted campaigns featuring premium products, wholesale options, or tiered discounts could be effective in capturing more sales from this 
     region.
 
   - Focus on Customer Retention
@@ -280,51 +280,51 @@ Country: Country name. Nominal, the name of the country where each customer resi
 
  ##### Findings
 
-   - Based on quantity, the United Kingdom has the highest-selling product; WORLD WAR 2 GLIDERS ASSTD DESIGNS (toys), with a significant quantity of 48,326 sold.
+   - Based on quantity, the **United Kingdom** has the highest-selling product; *WORLD WAR 2 GLIDERS ASSTD DESIGNS (toys)*, with a significant quantity of 48,326 sold.
 
-   - In Netherlands, France, and Japan, the top-selling product is the RABBIT NIGHT LIGHT (LED Nursery Night), with relatively high quantities (4,801 in the Netherlands, 4,023 in France, and 3,401 in Japan).
+   - In **Netherlands**, **France**, and **Japan**, the top-selling product is the *RABBIT NIGHT LIGHT (LED Nursery Night)*, with relatively high quantities (4,801 in the **Netherlands**, 4,023 in **France**, and 3,401 in **Japan**).
 
-   - Australia and Sweden share the top-selling product, MINI PAINT SET VINTAGE, with 2,916 units sold in each country.
+   - **Australia** and **Sweden** share the top-selling product, *MINI PAINT SET VINTAGE*, with 2,916 units sold in each country.
 
-   - Ireland (EIRE) shows high sales for PACK OF 72 RETROSPOT CAKE CASES (1,728 units), suggesting a preference for cupcake cases.
+   - **Ireland (EIRE)** shows high sales for *PACK OF 72 RETROSPOT CAKE CASES* (1,728 units), suggesting a preference for cupcake cases.
 
-   - Some countries have significantly lower sales for their top product, such as Lebanon with only 24 units of ASSTD FRUIT+FLOWERS FRIDGE MAGNETS and Saudi Arabia with 12 units of PLASTERS IN TIN SKULLS.
+   - Some countries have significantly lower sales for their top product, such as **Lebanon** with only 24 units of *ASSTD FRUIT+FLOWERS FRIDGE MAGNETS* and **Saudi Arabia** with 12 units of *PLASTERS IN TIN SKULLS*.
 
  ##### Insights
 
    - Regional Marketing Opportunities:
 
-     The high sales volume of specific items, such as WORLD WAR 2 GLIDERS ASSTD DESIGNS in the UK and RABBIT NIGHT LIGHT in several European and Asian countries, suggests these products could benefit from additional marketing and stock 
+     The high sales volume of specific items, such as *WORLD WAR 2 GLIDERS ASSTD DESIGNS* in the **UK** and *RABBIT NIGHT LIGHT* in several **European** and **Asian** countries, suggests these products could benefit from additional marketing and stock 
      availability in these regions.
      Identifying such high-demand products in each region allows the company to tailor marketing efforts, focusing on the most popular items for each country.
 
    - Potential Growth Areas in Low-Sales Countries:
 
-     Countries with lower sales figures, such as Lebanon and Saudi Arabia, might not yet be fully engaged markets. Experimenting with targeted advertisements, promotions, or partnerships could increase interest and boost sales in these 
+     Countries with lower sales figures, such as **Lebanon** and **Saudi Arabia**, might not yet be fully engaged markets. Experimenting with targeted advertisements, promotions, or partnerships could increase interest and boost sales in these 
      regions.
 
  #### IV. Popular Products by Country Based on Revenue
 
  ##### Findings
 
-   - The United Kingdom shows high demand for kids toys "WORLD WAR 2 GLIDERS ASSTD DESIGNS" generating a total revenue  of £12,055.96, indicating a wide margin in terms of the highest sales value for a single product.
+   - The **United Kingdom** shows high demand for kids toys *WORLD WAR 2 GLIDERS ASSTD DESIGNS* generating a total revenue  of £12,055.96, indicating a wide margin in terms of the highest sales value for a single product.
 
-   - Other countries, such as the Netherlands and France, prefer the "RABBIT NIGHT LIGHT," with a total revenue of £9,568.48 and £7,275.12, respectively.
+   - Other countries, such as the **Netherlands** and **France**, prefer the *RABBIT NIGHT LIGHT*," with a total revenue of £9,568.48 and £7,275.12, respectively.
 
-   - For Switzerland and Saudi Arabia, the highest sales are for items like "PLASTERS IN TIN" with unique designs (e.g., "WOODLAND ANIMALS" and "SKULLS").
+   - For **Switzerland** and **Saudi Arabia**, the highest sales are for items like *PLASTERS IN TIN* with unique designs (e.g., *WOODLAND ANIMALS* and *SKULLS*).
 
-   - Smaller markets, like Bahrain and Cyprus, have lower total sales values for their top items, suggesting either lower demand or fewer high-priced items purchased.
+   - Smaller markets, like **Bahrain** and **Cyprus**, have lower total sales values for their top items, suggesting either lower demand or fewer high-priced items purchased.
 
  ##### Insights
  
    - Market-Specific Preferences
    
-     The popularity of certain items, like "WORLD WAR 2 GLIDERS ASSTD DESIGNS" in the UK and the "RABBIT NIGHT LIGHT" in several countries, suggests unique regional preferences. This could inform inventory 
-     management, targeting high-demand items in specific regions, especially for larger markets like the UK and the Netherlands.
+     The popularity of certain items, like *WORLD WAR 2 GLIDERS ASSTD DESIGNS* in the **UK** and the *RABBIT NIGHT LIGHT* in several countries, suggests unique regional preferences. This could inform inventory 
+     management, targeting high-demand items in specific regions, especially for larger markets like the **UK** and the **Netherlands**.
 
    - Potential for Expanding Top Products in New Markets:
 
-     Items with broad appeal, like the "RABBIT NIGHT LIGHT," could be marketed in new regions to capitalize on its popularity across diverse markets. Advertising campaigns that leverage this product’s appeal could be more successful in 
+     Items with broad appeal, like the *RABBIT NIGHT LIGHT*, could be marketed in new regions to capitalize on its popularity across diverse markets. Advertising campaigns that leverage this product’s appeal could be more successful in 
      attracting new customers.
 
 
