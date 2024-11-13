@@ -333,7 +333,7 @@ Country: Country name. Nominal, the name of the country where each customer resi
 
 #### I. Average Unit Price per Product
 
- #### Findings
+##### Findings
  
    - High-Value Products
    
@@ -350,7 +350,7 @@ Country: Country name. Nominal, the name of the country where each customer resi
      The list includes a significant number of low-cost items like *POPART WOODEN PENCILS ASST* (£0.04), *MINI HIGHLIGHTER PENS* (£0.12), and *ANIMAL STICKERS* (£0.21). These are likely impulse buys or small add-ons.
 
      
- #### Insights
+##### Insights
  
    - Diverse Product Range
 
@@ -367,3 +367,40 @@ Country: Country name. Nominal, the name of the country where each customer resi
    - Gift and Voucher Potential: The Gift Voucher has a high average unit price (£83.33), showing strong potential for gifting options. Emphasizing gift vouchers in marketing campaigns, especially during holiday seasons, could appeal to customers seeking flexible gifting solutions.   
 
 
+#### II. Products With the Highest Quantity Sold Per Transaction
+
+##### Findings
+
+   - PAPER CRAFT, LITTLE BIRDIE (StockCode 23843)
+
+     This product shows an exceptionally high quantity sold per transaction, with over 80,000 units sold in total. The dataset sghows only one valid transaction recorded for the product while the other transaction was cancelled suggesting that the product is a popular craft item bought in bulk, likely used for cards, scrapbook pages, tags, journals, planners, and other paper crafting and home decor projects.
+
+   - MEDIUM CERAMIC TOP STORAGE JAR (StockCode 23166)
+
+     With over 74,000 units sold, this storage jar seems to be a staple product in high demand, likely due to its versatility and practical use in home organization. The large transaction quantities may indicate it's popular with customers seeking functional, aesthetically pleasing storage solutions.
+
+   - ASSTD DESIGN 3D PAPER STICKERS (StockCode 84826)
+
+     With a total of 12,540 units sold in bulk, this product likely appeals to customers interested in arts, crafts, or stationery. The high quantity per transaction suggests it may be a popular choice for gift shops, craft stores, or schools, where items are purchased in bulk for creative activities.
+
+   - WORLD WAR 2 GLIDERS ASSTD DESIGNS (StockCode 84077)
+
+     This novelty item, with 4,800 units sold per transaction on average, appeals to a niche market interested in historical-themed products. The high quantity indicates that it's potentially a popular choice for events, school projects, where multiple units are purchased at once.
+
+   - SMALL POPCORN HOLDER (StockCode 22197)
+
+     With around 4,300 units sold, this item likely caters to entertainment or event settings, where popcorn holders are bought in bulk for cinemas, parties, or special events. The high volume per transaction suggests it is frequently purchased for gatherings or as a part of event supplies.
+
+##### Insights
+
+   - Bulk Purchase Patterns
+
+     Products like the "PAPER CRAFT, LITTLE BIRDIE" and "ASSTD DESIGN 3D PAPER STICKERS" are likely purchased in bulk by businesses or groups for craft projects, events, or educational purposes. These findings indicate a demand for bulk-friendly items, suggesting opportunities to offer discounts or tiered pricing to encourage bulk purchases.
+
+   - Popularity of Functional and Novelty Items
+
+     The "MEDIUM CERAMIC TOP STORAGE JAR" appeals to customers seeking functional home items, while items like the "WORLD WAR 2 GLIDERS" cater to niche markets interested in novelty products. This mix of product types indicates the need to balance inventory between practical household items and unique novelty items to cater to diverse customer interests.
+
+   - Marketing and Targeting Opportunities
+
+     Given the high volume per transaction for these products, targeting businesses or groups (e.g., craft stores, event planners, or educational institutions) with tailored marketing campaigns could help drive more bulk sales. Highlighting these products in seasonal or special event promotions could also capture the attention of bulk buyers.   
