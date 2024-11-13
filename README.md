@@ -2,7 +2,7 @@
 
 ![1-c829b1d8](https://github.com/user-attachments/assets/590b6fb2-8e45-4d90-9e16-2c38b1f45f9e.PNG)
 
-# 1. INTRODUCTION
+## 1. INTRODUCTION
 
 Purpose: The purpose of this analysis is to gain insights into sales performance, customer purchasing behaviors, and revenue trends for strategic decision-making. By examining key metrics such as product sales, revenue by transaction, customer spend, and geographic distribution, this report aims to provide actionable recommendations to enhance revenue growth and customer engagement.
 
@@ -10,7 +10,7 @@ Scope: This analysis covers transactional data, focusing on product sales, custo
 
 
 
-2. DATASET OVERVIEW
+##2. DATASET OVERVIEW
 
 The dataset contains "532,618" transactions by invoiceNo excluding NULL fields (which is as a result of cases where InvoiceNo begins with "C", indicating cancelled transactions) and "4,372" unique customers 
 
