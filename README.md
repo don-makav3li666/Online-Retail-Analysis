@@ -328,4 +328,26 @@ Country: Country name. Nominal, the name of the country where each customer resi
      attracting new customers.
 
 
+     
+### E. Product and Inventory Insights
+
+#### I. Average Unit Price per Product
+
+ #### Findings
+ 
+   - High-Value Products
+   
+     The top of the list includes high-value items such as *PICNIC BASKET WICKER 60 PIECES* (£649.5), *REGENCY MIRROR WITH SHUTTERS* (£156.43), and *RUSTIC SEVENTEEN DRAWER SIDEBOARD* (£156.03). These are likely premium or specialty items, 
+     with most priced above £100.
+
+   - Mid-Range Items
+
+     Items like the *Dotcomgiftshop Gift Voucher* (£100), *VINTAGE POST OFFICE CABINET* (£66.36), and *SCHOOL DESK AND CHAIR* (£64.06) fall within a moderate price range, suggesting they might be popular, high-value items but 
+     not necessarily luxury goods.
+
+   - Low-Value Products
+
+     The list includes a significant number of low-cost items like *POPART WOODEN PENCILS ASST* (£0.04), *MINI HIGHLIGHTER PENS* (£0.12), and *ANIMAL STICKERS* (£0.21). These are likely impulse buys or small add-ons.
+
+
 
