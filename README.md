@@ -176,9 +176,9 @@ Country: Country name. Nominal, the name of the country where each customer resi
     might help capture a larger audience and boost end-of-week sales.
 
 
-IV. Repeat Purchase Patterns
+#### IV. Repeat Purchase Patterns
 
- Findings
+ ##### Findings
 
   - Moderate-Frequency Purchasers:
 
@@ -192,7 +192,7 @@ IV. Repeat Purchase Patterns
 
     A smaller segment, with 167 customers are classified as "Low-Frequency Purchasers," with intervals between purchases ranging from 181 to 366 days.
 
- Insights
+ ##### Insights
 
   - Opportunity for Customer Segmentation and Personalization
 
@@ -206,11 +206,11 @@ IV. Repeat Purchase Patterns
 
 
 
-D. Geographic Analysis
+### D. Geographic Analysis
 
-I. Distribution of Revenue by Country
+#### I. Distribution of Revenue by Country
 
- Findings
+ ##### Findings
 
   - Top Revenue-Generating Country:
 
@@ -229,7 +229,7 @@ I. Distribution of Revenue by Country
 
     Countries like Saudi Arabia, Brazil, and Czech Republic have the lowest revenue contributions, each making up 0.01% or less. This could indicate limited demand, market entry challenges, or distribution constraints.
 
- Insights
+ ##### Insights
 
   - Strong UK Dependency:
 
@@ -245,9 +245,9 @@ I. Distribution of Revenue by Country
     For markets with negligible contributions, it may be beneficial to investigate potential entry or growth barriers. Factors like distribution challenges, import regulations, and currency exchange could be limiting growth in markets 
     such as Brazil, the UAE, and Canada.
 
-II. Country with the highest average order value
+#### II. Country with the highest average order value
 
- Findings
+ ##### Findings
 
   - High Average Order Value
 
@@ -257,7 +257,7 @@ II. Country with the highest average order value
   
     This high AOV could indicate a pattern of bulk purchasing, possibly by businesses or distributors rather than individual customers.
 
- Insights 
+ ##### Insights 
  
   - Market Potential for Premium and Bulk Offers
 
@@ -275,9 +275,9 @@ II. Country with the highest average order value
     pricing, and marketing approaches tailored to this specific market.
 
 
-III. Popular Products by Country based on Quantity
+#### III. Popular Products by Country based on Quantity
 
-  Findings
+ ##### Findings
 
    - Based on quantity, the United Kingdom has the highest-selling product; WORLD WAR 2 GLIDERS ASSTD DESIGNS (toys), with a significant quantity of 48,326 sold.
 
@@ -289,7 +289,7 @@ III. Popular Products by Country based on Quantity
 
    - Some countries have significantly lower sales for their top product, such as Lebanon with only 24 units of ASSTD FRUIT+FLOWERS FRIDGE MAGNETS and Saudi Arabia with 12 units of PLASTERS IN TIN SKULLS.
 
-  Insights
+ ##### Insights
 
    - Regional Marketing Opportunities:
 
@@ -302,9 +302,9 @@ III. Popular Products by Country based on Quantity
      Countries with lower sales figures, such as Lebanon and Saudi Arabia, might not yet be fully engaged markets. Experimenting with targeted advertisements, promotions, or partnerships could increase interest and boost sales in these 
      regions.
 
- IV. Popular Products by Country Based on Revenue
+ #### IV. Popular Products by Country Based on Revenue
 
-  Findings
+ ##### Findings
 
    - The United Kingdom shows high demand for kids toys "WORLD WAR 2 GLIDERS ASSTD DESIGNS" generating a total revenue  of £12,055.96, indicating a wide margin in terms of the highest sales value for a single product.
 
@@ -314,7 +314,7 @@ III. Popular Products by Country based on Quantity
 
    - Smaller markets, like Bahrain and Cyprus, have lower total sales values for their top items, suggesting either lower demand or fewer high-priced items purchased.
 
-  Insights
+ ##### Insights
  
    - Market-Specific Preferences
    
