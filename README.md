@@ -10,7 +10,7 @@ Scope: This analysis covers transactional data, focusing on product sales, custo
 
 
 
-### 2. DATASET OVERVIEW
+## 2. DATASET OVERVIEW
 
 The dataset contains "532,618" transactions by invoiceNo excluding NULL fields (which is as a result of cases where InvoiceNo begins with "C", indicating cancelled transactions) and "4,372" unique customers 
 
@@ -39,9 +39,9 @@ Country: Country name. Nominal, the name of the country where each customer resi
 
 
 
-3. METHODOLOGY
+## 3. METHODOLOGY
    
-Data Cleaning:
+### Data Cleaning:
 
  - Renamed "Description" column to "Product_Description" to avoid SQL "DESCRIPTION" function error
 
@@ -51,7 +51,7 @@ Data Cleaning:
 
  - Filtered out rows with incosistent values (indicating returned or damaged products) in StockCodes such that focus was on only codes with 5-digits
 
-Analytical Approach:
+### Analytical Approach:
 
  - Aggregated sales and revenue data by product, customer, country, and time.
 
@@ -60,11 +60,11 @@ Analytical Approach:
  - Segment analysis was conducted to reveal high-value customers and top-selling products.
 
 
-4. KEY FINDINGS AND INSIGHTS
+## 4. KEY FINDINGS AND INSIGHTS
    
-A. Sales and Revenue Analysis
+### A. Sales and Revenue Analysis
 
-I. Total Sales and Revenue by Product
+#### I. Total Sales and Revenue by Product
 
  Finding 
  
