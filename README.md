@@ -10,7 +10,7 @@ Scope: This analysis covers transactional data, focusing on product sales, custo
 
 
 
-## 2. DATASET OVERVIEW
+### 2. DATASET OVERVIEW
 
 The dataset contains "532,618" transactions by invoiceNo excluding NULL fields (which is as a result of cases where InvoiceNo begins with "C", indicating cancelled transactions) and "4,372" unique customers 
 
