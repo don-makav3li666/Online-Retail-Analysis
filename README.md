@@ -403,4 +403,40 @@ Country: Country name. Nominal, the name of the country where each customer resi
 
    - Marketing and Targeting Opportunities
 
-     Given the high volume per transaction for these products, targeting businesses or groups (e.g., craft stores, event planners, or educational institutions) with tailored marketing campaigns could help drive more bulk sales. Highlighting these products in seasonal or special event promotions could also capture the attention of bulk buyers.   
+     Given the high volume per transaction for these products, targeting businesses or groups (e.g., craft stores, event planners, or educational institutions) with tailored marketing campaigns could help drive more bulk sales. Highlighting these products in seasonal or special event promotions could also capture the attention of bulk buyers.
+
+
+#### III. Products That Appear Often In Invoices
+
+##### Findings
+
+   - High Popularity of Gift and Décor Items
+
+     Products like *REGENCY CAKESTAND 3 TIER*, *ASSORTED COLOUR BIRD ORNAMENT*, and *HEART OF WICKER SMALL* indicate strong demand for home décor and decorative items.
+     These items are likely purchased as gifts or for special occasions, reflecting their appeal across multiple customer segments.
+
+   - Frequent Use of Reusable and Eco-Friendly Items
+
+     Products like *LUNCH BAG RED RETROSPOT* and *JUMBO STORAGE BAG SUKI* suggest a preference for practical, reusable items. This trend aligns with growing consumer interest in eco- 
+     friendly alternatives.
+
+   - Party Supplies Are a Key Category:
+
+     *PARTY BUNTING* and *PACK OF 72 RETROSPOT CAKE CASES* demonstrate the popularity of party and event supplies. These items likely cater to customers hosting celebrations or events, 
+     driving frequent transactions.
+
+     
+##### Insights
+   - Cross-Selling Opportunities
+
+     Products such as *REGENCY CAKESTAND 3 TIER* and *PACK OF 72 RETROSPOT CAKE CASES* are complementary. Promoting them together as a bundle could increase average transaction value.
+     Similarly, bundling "PARTY BUNTING" with other party supplies can boost sales.
+
+   - Customer Insights
+
+     These products are likely to appeal to specific customer segments (e.g., home decorators, parents, or event planners). Tailoring marketing campaigns to these segments can drive sales 
+     further.
+
+   - Revenue Maximization
+
+     Given their frequent appearance on invoices, consider exploring slight price adjustments (if competitive) to maximize revenue from these high-demand products.  
