@@ -78,7 +78,10 @@ The dataset contains "532,618" transactions by invoiceNo excluding NULL fields (
 
 ##### Insight 
   
-  - Maintaining adequate stock for these products could help meet customer demand, maximize sales and revenue.
+  - Revenue Drivers:
+
+    High-revenue products, such as *REGENCY CAKESTAND 3 TIER* and *PAPER CRAFT, LITTLE BIRDIE*, are likely customer favorites or meet specific, consistent needs (e.g., gifting, 
+    decoration, or event supplies). These products should remain focal points in inventory management and marketing efforts.
 
 #### II. Total Revenue Per Invoice
 
@@ -92,6 +95,8 @@ The dataset contains "532,618" transactions by invoiceNo excluding NULL fields (
   - The above suggests that while high-quantity items drive volume-based revenue, certain high-value products contribute strategically to revenue by generating large amounts per sale. This dual revenue structure could be beneficial for 
     balancing overall sales strategy, allowing the business to leverage both high-demand, lower-priced items and high-margin premium items.
 
+  - A significant portion of the customers (such as customer IDs 570554, 567869, 539441, etc.) are contributing very little to total revenue, with some even generating only a few pennies or no substantial revenue at all. This indicates that many customers may only make one-time or low-value purchases, suggesting that customer retention or repeat purchases are not being effectively managed.  
+
 ### B. Customer Behavior Analysis
 
 #### I. Unique Customers
@@ -102,8 +107,15 @@ The dataset contains "532,618" transactions by invoiceNo excluding NULL fields (
 
 ##### Insights
 
-  - With only about 10% of customers from outside the UK, there may be untapped opportunities in international markets. Expanding marketing efforts in other countries could diversify the customer base, reduce dependency on a single 
-    region, and open new revenue streams.
+  - Strong Dominance of the United Kingdom Market
+
+    The **United Kingdom** accounts for 90.35% of the total volume, with 3,950 transactions compared to much smaller figures from other countries. This suggests that the UK is the primary 
+    market for this business, with a large customer base and frequent transactions driving the overwhelming majority of the sales.
+
+  - Low Engagement in Other International Markets
+    
+    Other countries show significantly lower transaction volumes, with many countries contributing less than 0.1% of the total volume. This indicates limited market penetration or lower 
+    consumer demand in these regions. Countries like **Germany**, **France**, **Spain**, and **Switzerland** show some activity, but the figures are still very small compared to the **UK**.  
 
 #### II. Customer Spend Analysis
 
@@ -112,30 +124,29 @@ The dataset contains "532,618" transactions by invoiceNo excluding NULL fields (
   - Customers exhibit varied spending levels, with some contributing significantly based on average/total spending per transactions and others with minimal spending.
     High-spending customers represent the top percentile, contributing disproportionately to overall revenue. For example, the highest spender may have contributed several times more than lower-spending customers. 
 
-  - CustomerID (14646) has an average spending per transaction of £134.05 but the highest total spending of £279,489.02 over 2080 transactions, indicating that they make frequent small purchases. In contrast, 
-
-  - CustomerID (18102) has an average spending per transaction of £592.24 but a total spending of £256438.49 over 431 transactions, showing that they make occasional large purchases.
-
-  - Also, a segment of customers has minimal or negative net spending due to factors such as product returns, adjustments or damages. For instance, if some customers frequently return products, it could impact their net contribution 
-    negatively or result in zero spending.
-
-##### Insight 
+##### Insights 
   
-  - The top customers by total spending can be identified as high-value clients. These customers contribute significantly to sales and are likely to respond well to loyalty programs, targeted promotions, or personalized engagement to 
-    encourage repeat business.
+  -  CustomerID (14646) has an average spending per transaction of £134.05 but the highest total spending of £279,489.02 over 2080 transactions, indicating that they make frequent small purchases. In contrast, CustomerID (18102) has an average spending per transaction of £592.24 but a total spending of £256438.49 over 431 transactions, showing that they make occasional large purchases.
 
-  - Investigate low or zero-spending customers to understand barriers to increased spending. This could involve analyzing reasons for product returns or negative spendings.
-
+  - Also, several customers (e.g., Customer 16446, Customer 16738, Customer 17956, etc.) have made only a single purchase, contributing very little to the overall revenue. These single purchases are generally small in volume and price, resulting in a minimal impact on total revenue. This suggests that a portion of customers may not be fully engaged or loyal.
+    
 #### III. Top Buyers by Quantity Purchased and Revenue Generated
 
 ##### Finding
-  
-  - CustomerID (14646) is the highest buyer based on quantity purchased (196,719) and revenue generated (£279,489.02), followed by several others with similar purchasing patterns. 
 
-##### Insight 
-  
-  - There is a positive pattern between total quantity purchased and revenue generated. Hence, dentifying and offering exclusive benefits to these top customers could encourage continued high-value purchases.
+  - High-Quantity Buyers Contribute Significantly to Revenue
+    
+    Customers with IDs 14646, 12415, and 14911 have high quantities purchased (e.g., 196,719, 77,242, and 77,180 respectively) and also generate substantial revenue (e.g., £279,489.02, £123,725.45, and £132,572.62). 
 
+  - Moderate Revenue but Significant Quantity Buyers Could Drive Future Growth
+
+    Customers such as 17450 and 18102 have purchased substantial quantities (69,029 and 64,122) but with somewhat moderate revenue generation (e.g., £187,482.17 and £256,438.49).
+
+##### Insights 
+  
+  - The above indicates a strong correlation between purchasing volume and revenue contribution. Customers who buy in large quantities tend to spend more overall, highlighting the importance of engaging high-volume buyers.
+
+  - Although some customers buy frequently, they might be purchasing lower-priced items or making smaller purchases per transaction.
 
 ### C. Time-Based Analysis
 
@@ -143,42 +154,48 @@ The dataset contains "532,618" transactions by invoiceNo excluding NULL fields (
 
 ##### Finding 
 
- - Sales peaked from 8 AM to 7 PM. There is minimal purchasing activity from 8 PM to 7 AM.
+ - Sales peaked from 9 AM to 5 PM. There is a huge decline in purchasing activities from 6 PM.
 
-##### Insight
+##### Insights
 
- - Targeted marketing emails and promotions sent in the morning could capitalize on peak purchase hours.
+ - Peak Sales Hours Clustered Between 9 AM and 5 PM
+
+The data shows a significant increase in sales during hours 9 (8 AM - 9 AM) to 16 (4 PM - 5 PM), with a gradual peak at 10 AM (49,037), 11 AM (57,674), and continuing into the afternoon hours. This indicates that a majority of sales occur during standard business hours, likely driven by regular working hours when customers are most likely engaged in shopping or purchasing decisions. The sharp drop after 5 PM shows a clear decline in customer activity towards evening, which might be attributed to consumers completing their workday and shifting focus away from purchases.
+
+ - Late Night and Early Morning Low Sales
+
+Sales during the late-night and early-morning hours, such as 18 (7,974), 19 (3,705), and 20 (871), are significantly lower compared to mid-morning and afternoon hours. This suggests that consumers are less likely to engage in purchasing activities at these times, possibly due to typical sleep patterns or reduced online activity.
  
 #### II. Sales Trends by Month
 
  ##### Findings 
 
-  - According to the data, November 2011 reached the peak with 3,021 invoices and 740,286 items sold, representing the highest monthly transaction count and quantity for the entire period. In contrast, December 2011 saw a drastic drop, 
-    with only 869 invoices and 226,333 items sold—the lowest recorded for both metrics.
+  - The months of October and November show the highest sales volume, with October reaching 2,275 sales and November seeing a peak of 3,021 sales. The sharp increase during these months indicates that certain seasonal factors or promotional events likely occurred, driving a higher volume of transactions.
+
+  - Based on the ordering of results, after November 2011, there is a noticeable decline in sales volume, with sales dropping from 3,021 in November to 869 in December. The drop is significant, indicating a potential seasonal dip or a lack of follow-up promotions to maintain engagement.
 
 ##### Insights
  
-  - This data highlights a pronounced seasonal sales pattern. The November spike indicates a surge likely tied to holiday shopping or major promotions, such as pre-holiday sales, which maximized customer purchases. The drop in December 
-    2011 suggests that demand may have been largely met during November, leading to a slower December. This pattern could reflect consumer behavior where bulk purchasing happens early in the season, possibly due to anticipated stockouts 
-    or discount-driven purchases. However, there is not enough data to determine if this is a regular occurence.
+  - This increase in October and November could be attributed to factors like the approaching holiday season (e.g., Christmas or Black Friday), special promotions, or customer purchasing behaviors associated with the end of the year, where people often prepare for holidays and festivities.
+
+  - The sharp decline in December could suggest that after the holiday rush, customer demand drops off, as people may have finished their holiday shopping, or because of a lack of targeted post-holiday sales events. Alternatively, the post-holiday period might see reduced marketing efforts.
 
 #### III. SalesTrends by Day of Week
 
 ##### Findings 
   
-  - With a total quantity sold of 4,689 and total revenue of $1,167,823, Thursday stands out as the strongest day in terms of both sales volume and revenue generation.
-    Midweek Outperforms the Weekend in Sales:
+  - Midweek Outperforms the Weekend in Sales
+    
+    With a total transaction of 4,689 and total quantity sold of 1,167,823, Thursday stands out as the strongest day in terms of both sales volume and revenue generation.
+    Midweek Outperforms the Weekend in Sales. The top three days for both quantity and revenue are Thursday, Wednesday, and Tuesday. Together, they account for a significant share of total sales, indicating that midweek days are the peak sales period.
 
-  - The top three days for both quantity and revenue are Thursday, Wednesday, and Tuesday. Together, they account for a significant share of total sales, indicating that midweek days are the peak sales period.
-    In contrast, Sunday shows the lowest sales, with only 2,207 items sold and a revenue of $467,732, suggesting a dip in customer activity on weekends.
+    In contrast, Sunday shows the lowest number of transactions, with only 2,207 transactions and a total quantity of goods sold at 467,732, suggesting a dip in customer activity on weekends.
 
    ##### Insight
 
-  - Since midweek days (Tuesday to Thursday) generate the highest sales, consider focusing marketing promotions or product launches on these days to capitalize on existing customer interest. For 
-    example, running a midweek sale could amplify already high traffic and increase revenue further.
-
-  - Sunday shows the lowest sales and revenue. This could be an opportunity to explore targeted promotions or discounts to encourage more purchases. Testing special weekend offers, like "Sunday-only discounts," 
-    might help capture a larger audience and boost end-of-week sales.
+  -  Sales are highest on Thursday and Wednesday, with these days generating 1,167,823 and 969,558 in revenue, respectively. This suggests that customers are more likely to make purchases mid-week, possibly due to people preparing for the upcoming weekend
+    
+  - Sales are lower on Friday and especially on Sunday, generating 794,440 and 467,732 total quantity sold, respectively. This could be due to various factors: people may be less inclined to shop on Sundays as they prepare for the workweek ahead, and on Fridays, consumers may prioritize other weekend activities over shopping. Additionally, consumer purchasing behavior might be influenced by retail trends or store-specific scheduling, such as slower start to weekend promotions.
 
 
 #### IV. Repeat Purchase Patterns
