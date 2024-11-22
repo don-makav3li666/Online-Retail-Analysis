@@ -204,29 +204,21 @@ Sales during the late-night and early-morning hours, such as 18 (7,974), 19 (3,7
 
   - Moderate-Frequency Purchasers:
 
-    The largest group of customers, with 1,757 customers are classified as "Moderate-Frequency Purchasers," making purchases every 31 to 180 days.
+    The largest group of customers, with 1,757 customers are classified as **Moderate-Frequency Purchasers**, making purchases every 31 to 180 days.
 
   - High-Frequency Purchasers:
 
-    There are 1,134 customers who fall into the "High-Frequency Purchaser" category, making purchases roughly every month or more frequently (within a 30-day interval).
+    There are 1,134 customers who fall into the **High-Frequency Purchaser** category, making purchases roughly every month or more frequently (within a 30-day interval).
 
   - Low-Frequency Purchasers:
 
-    A smaller segment, with 167 customers are classified as "Low-Frequency Purchasers," with intervals between purchases ranging from 181 to 366 days.
+    A smaller segment, with 167 customers are classified as **Low-Frequency Purchasers**, with intervals between purchases ranging from 181 to 366 days.
 
  ##### Insights
 
-  - Opportunity for Customer Segmentation and Personalization
+  - The largest group of customers are categorized as **Moderate-Frequency Purchasers** (1,757 customers), making repeat purchases between 31 and 180 days apart. This suggests that most customers tend to make repeat purchases at regular intervals, but not frequently enough to be considered high-frequency buyers. It could indicate that the products are more likely to be purchased on a semi-annual or quarterly basis, with customers returning as needed rather than making frequent impulse buys.
 
-  - Understanding the distribution of purchase frequency enables more effective customer segmentation. Each frequency group has distinct purchasing behaviors, allowing for tailored marketing strategies:
-
-  - High-Frequency Purchasers: Benefit from loyalty programs.
-
-  - Moderate-Frequency Purchasers: Engage with reminders and retention offers.
-
-  - Low-Frequency Purchasers: Appeal with seasonal or limited-time offers.
-
-
+  - The **Low-Frequency Purchasers** group is significantly smaller (167 customers), with intervals between purchases ranging from 181 to 366 days. This suggests that these customers make purchases infrequently, potentially due to seasonal buying habits, product lifecycle, or a one-time need. The smaller size of this group indicates that the product or service may not have a strong recurring demand or that the company has not successfully engaged these customers to return more often.
 
 ### D. Geographic Analysis
 
@@ -255,47 +247,28 @@ Sales during the late-night and early-morning hours, such as 18 (7,974), 19 (3,7
 
   - Strong UK Dependency:
 
-    The heavy revenue concentration in the **UK** (84%) highlights a reliance on the domestic market. Diversifying revenue sources by expanding internationally could reduce dependency on the UK and spread business risk.
+    The business may have established stronger brand recognition, localized marketing efforts, and efficient distribution networks within the UK compared to other regions. Additionally, local demand for the product portfolio is likely higher due to cultural familiarity or tailored offerings.
 
-  - Potential for Growth in Top European Markets:
 
-    Countries like the **Netherlands**, **Ireland**, **Germany**, and **France** already contribute notable revenue. Increased investment in these markets could help strengthen customer bases and maximize growth. For instance, localized marketing or 
-    country-specific promotions may help boost sales in these regions.
+  -  Minimal Contributions from Non-European Markets:
 
-  - Investigate Barriers in Low-Contribution Countries:
-
-    For markets with negligible contributions, it may be beneficial to investigate potential entry or growth barriers. Factors like distribution challenges, import regulations, and currency exchange could be limiting growth in markets 
-    such as **Brazil**, the **UAE**, and **Canada**.
+     Countries outside Europe, such as **USA** (0.02%), **Canada** (0.04%), and **Brazil** (0.01%), contribute negligible revenue. Even large economies like **Japan** (0.36%) and **Australia** (1.41%) underperform relative to their market potential. This could be due to logistical challenges, lack of localized marketing strategies, limited brand presence, or regulatory barriers in non-European markets.
+    
 
 #### II. Country with the highest average order value
 
  ##### Findings
 
-  - High Average Order Value
-
     Netherlands has the highest average order value (AOV) at 2996.44, indicating that customers from Netherlands spends significantly more per transaction compared to others.
-  
-  - Potential Bulk Purchases
-  
-    This high AOV could indicate a pattern of bulk purchasing, possibly by businesses or distributors rather than individual customers.
 
  ##### Insights 
  
-  - Market Potential for Premium and Bulk Offers
-
-    The **Netherlands** may have a strong market for higher-end products or bulk purchasing options. Targeted campaigns featuring premium products, wholesale options, or tiered discounts could be effective in capturing more sales from this 
-    region.
-
-  - Focus on Customer Retention
-
-    Since these customers tend to place high-value orders, retention efforts in the Netherlands could lead to substantial revenue. Consider loyalty programs, tailored promotions, or priority support to enhance customer loyalty and 
-    sustain this high AOV.
-
-  - Analyze Customer Segments
-
-    A deeper analysis of customer segments in the Netherlands—such as identifying whether these high AOVs are driven by a few large clients or by consistently high individual spending—can inform strategic decisions on inventory, 
-    pricing, and marketing approaches tailored to this specific market.
-
+    The **Netherlands** may have:
+    
+  - A strong market for higher-end products or bulk purchasing options
+  - A smaller but more affluent customer base
+  - Fewer transactions but larger basket sizes. 
+   
 
 #### III. Popular Products by Country based on Quantity
 
@@ -448,6 +421,7 @@ Sales during the late-night and early-morning hours, such as 18 (7,974), 19 (3,7
 
      
 ##### Insights
+
    - Cross-Selling Opportunities
 
      Products such as *REGENCY CAKESTAND 3 TIER* and *PACK OF 72 RETROSPOT CAKE CASES* are complementary. Promoting them together as a bundle could increase average transaction value.
