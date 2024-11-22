@@ -395,8 +395,8 @@ Sales during the late-night and early-morning hours, such as 18 (7,974), 19 (3,7
 
    - High Popularity of Gift and Décor Items
 
-     Products like *REGENCY CAKESTAND 3 TIER*, *ASSORTED COLOUR BIRD ORNAMENT*, and *HEART OF WICKER SMALL* indicate strong demand for home décor and decorative items.
-     These items are likely purchased as gifts or for special occasions, reflecting their appeal across multiple customer segments.
+Products like *REGENCY CAKESTAND 3 TIER*, *ASSORTED COLOUR BIRD ORNAMENT*, and *HEART OF WICKER SMALL* indicate strong demand for home décor and decorative items.
+  These items are likely purchased as gifts or for special occasions, reflecting their appeal across multiple customer segments.
 
    - Frequent Use of Reusable and Eco-Friendly Items
 
