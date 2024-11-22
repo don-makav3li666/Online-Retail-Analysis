@@ -426,3 +426,42 @@ Sales during the late-night and early-morning hours, such as 18 (7,974), 19 (3,7
 
   Investigate the reasons behind low customer spending. It could be beneficial to engage in targeted campaigns, such as offering discounts, personalized recommendations, or loyalty incentives, to encourage repeat purchases. For 
   customers with a history of low spending, consider segmenting them for special promotions or introductory offers that encourage them to make larger or more frequent purchases.
+  
+#### II. Focus on UK Retention and Expansion
+
+Given the dominant role of the UK market, the company should invest further in customer retention strategies in the UK, such as loyalty programs or targeted promotions, to maintain and grow this market share. Expanding the product availability or customizing marketing strategies for the UK audience could help capture even more demand.
+
+#### III. Targeted International Market Expansion
+
+Focus efforts on identifying high-potential international markets for expansion. Countries like Germany and France, while lower in volume, show some traction. Tailoring marketing strategies to local preferences and offering region-specific promotions or product bundles could stimulate demand in these countries. Additionally, market research should be conducted in smaller markets like Japan, Canada, and the UAE to assess entry barriers and potential for growth.
+
+#### IV. Enhancing Customer Retention through Loyalty Programs and Personalized Incentives
+
+The business should consider developing loyalty programs or VIP customer incentives to further nurture relationships with high-value customers. Offering personalized promotions, discounts, or exclusive deals could encourage repeat purchases and strengthen customer retention.
+
+#### V. Focus Marketing and Promotions During Peak Hours
+
+Since sales peak during the mid-morning to afternoon hours, it would be strategic to align marketing campaigns, targeted advertisements, and promotional offers during these times. Promotions like flash sales, limited-time offers, or high-visibility marketing efforts could be timed to coincide with these peak hours to maximize customer engagement and drive higher sales.
+
+#### VI. Explore Opportunities for Evening or Off-Hour Engagement
+
+Although sales drop after business hours, the late-night and early-morning periods still show some level of activity. To further capitalize on this, consider targeted campaigns or incentives that appeal to customers shopping outside traditional hours. This could include offering time-sensitive discounts for evening shoppers or enhancing the user experience for those browsing at off-hours, such as better customer service during late-night hours or special deals for night owls.
+
+#### VII. Leverage Holiday Season Promotions
+
+Capitalize on the observed sales spike during the end-of-year months like; September, October and November, by launching targeted marketing campaigns, holiday discounts, and bundled offers. Planning for sales events in these high-demand months can help boost revenue further.
+
+#### VIII. Develop Post-Holiday Promotions
+
+To combat the sales decline, create special offers or loyalty programs in the months following peak seasons. Offering discounts or rewards for repeat customers in December or January can help maintain sales momentum during traditionally slower months.
+
+#### IX. Analyze Customer Segmentation
+
+Look into the customer segments that are active during high-sales periods versus low-sales periods, and tailor marketing strategies to these segments to maintain engagement year-round.
+
+#### X. Leverage Low-Cost Products to Boost Volume Sales
+
+Use low-priced products as upselling opportunities. For example, bundle them with mid-priced items or offer them as add-ons during checkout to increase average order value (AOV). Highlight them in promotions or "Back to School" campaigns to attract price-sensitive customers.
+
+  
+  
