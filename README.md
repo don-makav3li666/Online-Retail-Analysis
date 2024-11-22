@@ -386,7 +386,7 @@ Sales during the late-night and early-morning hours, such as 18 (7,974), 19 (3,7
 
    - Specific Product Variants Are Commonly Purchased Together
 
-    The *FAIRY CAKE FLANNEL ASSORTED COLOUR* appears twice in the results with the same quantity sold per transaction (3114 units). This repetition suggests that customers are purchasing multiple variants of this product, which could be linked to a preference for assortments or sets. The *SMALL CHINESE STYLE SCISSOR* (3000 units sold) also seems to cater to a specific, niche market.
+      The *FAIRY CAKE FLANNEL ASSORTED COLOUR* appears twice in the results with the same quantity sold per transaction (3114 units). This repetition suggests that customers are purchasing multiple variants of this product, which could be linked to a preference for assortments or sets. The *SMALL CHINESE STYLE SCISSOR* (3000 units sold) also seems to cater to a specific, niche market.
 
 
 #### III. Products That Appear Often In Invoices
