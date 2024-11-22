@@ -413,8 +413,8 @@ Products like *REGENCY CAKESTAND 3 TIER*, *ASSORTED COLOUR BIRD ORNAMENT*, and *
 
    -  Popular Products Drive Frequent Sales
 
-     The top products like *REGENCY CAKESTAND 3 TIER*, *PARTY BUNTING*, and *LUNCH BAG RED RETROSPOT* have significantly high invoice counts, indicating they are popular and frequently purchased. These products have likely gained 
-     widespread customer appeal due to their practicality, visual appeal, or alignment with customer trends for example; events like parties, seasonal products, or home decor.
+  The top products like *REGENCY CAKESTAND 3 TIER*, *PARTY BUNTING*, and *LUNCH BAG RED RETROSPOT* have significantly high invoice counts, indicating they are popular and frequently purchased. These products have likely gained 
+  widespread customer appeal due to their practicality, visual appeal, or alignment with customer trends for example; events like parties, seasonal products, or home decor.
 
    - Certain Product Categories Dominate Sales
 
