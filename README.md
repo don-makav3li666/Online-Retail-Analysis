@@ -424,5 +424,5 @@ Sales during the late-night and early-morning hours, such as 18 (7,974), 19 (3,7
 
 #### I. Enhancing Customer Engagement Through Targeted Strategies to Boost Spending
 
-        Investigate the reasons behind low customer spending. It could be beneficial to engage in targeted campaigns, such as offering discounts, personalized recommendations, or loyalty incentives, to encourage repeat purchases. For 
-        customers with a history of low spending, consider segmenting them for special promotions or introductory offers that encourage them to make larger or more frequent purchases.
+  Investigate the reasons behind low customer spending. It could be beneficial to engage in targeted campaigns, such as offering discounts, personalized recommendations, or loyalty incentives, to encourage repeat purchases. For 
+  customers with a history of low spending, consider segmenting them for special promotions or introductory offers that encourage them to make larger or more frequent purchases.
