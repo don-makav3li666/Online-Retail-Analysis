@@ -259,11 +259,11 @@ Sales during the late-night and early-morning hours, such as 18 (7,974), 19 (3,7
 
  ##### Findings
 
-    Netherlands has the highest average order value (AOV) at 2996.44, indicating that customers from Netherlands spends significantly more per transaction compared to others.
+ Netherlands has the highest average order value (AOV) at 2996.44, indicating that customers from Netherlands spends significantly more per transaction compared to others.
 
  ##### Insights 
  
-    The **Netherlands** may have:
+ The **Netherlands** may have:
     
   - A strong market for higher-end products or bulk purchasing options
   - A smaller but more affluent customer base
